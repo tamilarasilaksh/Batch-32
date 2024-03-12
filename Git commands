@@ -1,0 +1,5 @@
+Git clone <URL> -- for cloning from cloud to base machine
+Important commans in Git
+Git init - initialize empty repository in the empty folder which we created
+First time Git setup: Requires to provide your identity  1. git config --global user.name "Admin"        2. git config --global user.email<mailid>@gmail.com               these 2 cmds are required while first commit shows error who are you, for that we need to provide identity.
+Git status
